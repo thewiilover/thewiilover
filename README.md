@@ -1,5 +1,13 @@
 ## Hi there 👋
+😄 Pronouns: He/Him
 
+
+🌱 I’m currently learning
+ - Javascript
+ - Typescript
+ - C#
+ - C++
+ - C
 <!--
 **thewiilover/thewiilover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
